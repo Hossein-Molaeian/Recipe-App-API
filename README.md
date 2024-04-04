@@ -5,7 +5,7 @@ This project revolves around the creation of an advanced REST API utilizing Pyth
 ### Key Features:
 
 - **User Management**: Implementing user authentication, user profile creation, and password management.
-- **Object Management**: Functionalities of creating, updating, filtering, and sorting of objects, focusing on recipe, ingredients and tags.
+- **Object Management**: Functionalities of creating, updating, filtering, and sorting of objects.
 - **Media Handling**: Facilitating the uploading and viewing of images within the API.
 - **Best Practice Principles**: Following PEP-8 guidelines, unit testing, and applying Test Driven Development.
 - **Scalability and Reusability**: Building a backend that can serve as a foundation for future projects or Minimum Viable Products (MVPs).
