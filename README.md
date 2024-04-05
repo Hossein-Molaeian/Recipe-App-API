@@ -8,7 +8,7 @@ This project is an advanced REST API utilizing Python, Django REST Framework, an
 - **Object Management**: Functionalities of creating, updating, filtering, and sorting of objects.
 - **Media Handling**: Facilitating the uploading and viewing of images within the API.
 - **Best Practice Principles**: Following CI/CD methods, unit testing, and applying Test Driven Development.
-- **Scalability and Reusability**: Building a backend that can serve as a foundation for future projects or Minimum Viable Products (MVPs).
+- **Searchability**: Utilization of Swagger for a Browseable API interface, enabling endpoint exploration and testing capabilities.
 
 ## Technologies Used
 
