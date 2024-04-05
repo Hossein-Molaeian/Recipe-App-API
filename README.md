@@ -7,7 +7,7 @@ This project is an advanced REST API utilizing Python, Django REST Framework, an
 - **User Management**: Implementing user authentication, user profile creation, and password management.
 - **Object Management**: Functionalities of creating, updating, filtering, and sorting of objects.
 - **Media Handling**: Facilitating the uploading and viewing of images within the API.
-- **Best Practice Principles**: Following CI/CD methods, unit testing, and applying Test Driven Development.
+- **Best Practice Principles**: Following CI/CD methods and applying Test Driven Development.
 - **Searchability**: Utilization of Swagger for a Browseable API interface, enabling endpoint exploration and testing capabilities.
 
 ## Technologies Used
