@@ -1,20 +1,20 @@
 # Recipe REST API
 
-This project is an advanced REST API utilizing Python, Django REST Framework, and Docker, all developed through Test Driven Development (TDD). It aims to provide a comprehensive solution for handling various functionalities crucial for modern software and web applications.
+This project is a REST API utilizing Python, Django REST Framework, and Docker. It aims to provide a comprehensive solution for handling various functionalities crucial for modern software and web applications.
 
 ### Key Features:
 
-- **User Management**: Implementing user authentication, user profile creation, and password management.
-- **Object Management**: Functionalities of creating, updating, filtering, and sorting of objects.
-- **Media Handling**: Facilitating the uploading and viewing of images within the API.
-- **Best Practice Principles**: Following CI/CD methods and applying Test Driven Development.
-- **Searchability**: Utilization of Swagger for a Browseable API interface, enabling endpoint exploration and testing capabilities.
+- Implementing user authentication, user profile creation, and password management.
+- Functionalities such as creating, updating, filtering, and sorting of objects.
+- Uploading and viewing images within the API.
+- Following CI/CD methods and applying Test Driven Development.
+- Utilization of Swagger for a Browseable API interface, enabling endpoint exploration and testing capabilities.
 
 ## Technologies Used
 
-- **Python**: The core language for backend development.
+- **Python**: The primary language.
 - **Django REST Framework**: Providing powerful tools for building APIs in Python.
-- **Docker**: Facilitating easy setup and deployment of development environments.
+- **Docker**: Easy setup and deployment of development environments.
 - **PostgreSQL**: Configured as the database.
 - **GitHub Actions**: Automating code checks.
 
