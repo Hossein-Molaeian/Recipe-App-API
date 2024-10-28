@@ -1,22 +1,22 @@
 # Recipe REST API
 
-This project is a REST API utilizing Python, Django REST Framework, and Docker. It aims to provide a comprehensive solution for handling various functionalities crucial for modern software and web applications.
+This project is a REST API utilizing Python, Django REST Framework, and Docker. It aims to provide a solution for handling various functionalities crucial for modern software and web applications.
 
 ### Key Features:
 
-- Implementing user authentication, user profile creation, and password management.
-- Functionalities such as creating, updating, filtering, and sorting of objects.
+- User authentication, user profile creation, and password management.
+- Creating, updating, filtering, and sorting of objects.
 - Uploading and viewing images within the API.
-- Following CI/CD methods and applying Test Driven Development.
+- Following CI/CD and Test Driven Development methods.
 - Utilization of Swagger for a Browseable API interface, enabling endpoint exploration and testing capabilities.
 
-## Technologies Used
+## Main Technologies
 
-- **Python**: The primary language.
-- **Django REST Framework**: Providing powerful tools for building APIs in Python.
-- **Docker**: Easy setup and deployment of development environments.
-- **PostgreSQL**: Configured as the database.
-- **GitHub Actions**: Automating code checks.
+- **Python**
+- **Django REST Framework**
+- **Docker**
+- **PostgreSQL**
+- **GitHub Actions**
 
 ## How to Setup This Repository
 
@@ -38,7 +38,7 @@ docker-compose up --build
 ```
 **4: Run Tests:** <br>
 
-Execute unit tests to ensure code correctness and functionality:
+Execute unit tests to ensure the code functions:
 ```bash
 docker-compose exec app python manage.py test
 ```
